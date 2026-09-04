@@ -3,4 +3,3 @@ service vendor.pixelworks.hardware.feature /odm/bin/hw/vendor.pixelworks.hardwar
     user system
     group graphics drmrpc
     capabilities SYS_NICE
-    onrestart restart surfaceflinger
