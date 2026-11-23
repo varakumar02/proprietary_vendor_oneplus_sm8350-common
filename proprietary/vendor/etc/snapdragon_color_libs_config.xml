@@ -36,6 +36,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         <Name>libsnapdragoncolor-pxlw.so</Name>
         <ProcessingOrder>2</ProcessingOrder>
         <DisableColorTransform>true</DisableColorTransform>
-        <DisableLibrary>true</DisableLibrary>
+        <DisableLibrary>false</DisableLibrary>
     </Library>
 </StcLibraries>
